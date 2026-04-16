@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Cosmic Gel Lab",
+  "description": "A 3D interactive simulation of the universe as a viscoelastic medium, featuring longitudinal waves and transverse shear vortices.",
+  "requestFramePermissions": [
+    "xr-spatial-tracking"
+  ]
+}
